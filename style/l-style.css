@@ -1,0 +1,19 @@
+@media all and (min-width:991px){
+    section .div{
+        padding:60px 80px 0px 80px;
+    }
+    section .bottom-div{
+        padding-bottom:80px;
+    }
+     .header-wrap{
+        height:560px;
+    }
+    .header-wrap .header{
+         padding:160px 0;
+    }
+    .contain-box{
+        overflow:hidden;
+        padding:30px 0px;
+    }
+
+}

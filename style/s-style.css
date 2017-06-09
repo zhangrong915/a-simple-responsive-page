@@ -1,0 +1,24 @@
+@media all and (max-width:767px){
+    .header-wrap{
+        height:400px;
+    }
+     section .div {
+        padding:30px 10px 0 10px;
+    }
+    section .bottom-div{
+        padding-bottom:30px;
+    }
+     .header-wrap .header{
+         padding:60px 0;
+    }
+    .text-content h3{
+        padding-top:30px;
+    }
+    .contain-box{
+        padding:15px 0px;
+         overflow:hidden;
+    }
+    .main-box{
+        padding:15px 0px;
+    }
+}
